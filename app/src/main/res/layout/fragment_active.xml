@@ -8,19 +8,9 @@
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/listView"
+        android:id="@+id/activeActionList"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="75dp"
-        android:layout_marginStart="75dp"
-        android:layout_marginTop="141dp" />
+        android:layout_alignParentStart="true" />
 
-    <com.google.android.gms.common.SignInButton
-        android:id="@+id/sign_in_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="66dp" />
 </RelativeLayout>

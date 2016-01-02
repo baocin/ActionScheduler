@@ -1,0 +1,58 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:id="@+id/view">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <Spinner
+        android:layout_width="201dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/calendar_spinner"
+        android:prompt="@string/settings_calendar_prompt"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Select Calendar"
+        android:id="@+id/textView2"
+        android:autoText="false"
+        android:singleLine="false"
+        android:textAlignment="textStart"
+        android:hint="Which calendar to look for acctions in"
+        android:layout_below="@+id/view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="74dp" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Switch"
+        android:id="@+id/switch1"
+        android:layout_below="@+id/calendar_spinner"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignEnd="@+id/textView2" />
+
+</RelativeLayout>

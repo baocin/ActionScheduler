@@ -2,4 +2,6 @@
     <string name="app_name">ActionScheduler</string>
     <string name="one">One</string>
     <string name="two">Two</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_calendar_prompt">Choose which calendar to monitor for actions: </string>
 </resources>

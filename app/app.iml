@@ -77,6 +77,8 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/me.everything/providers-android/1.0.1/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/me.everything/providers-core/1.0.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
@@ -92,12 +94,14 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="recyclerview-v7-23.1.1" level="project" />
     <orderEntry type="library" exported="" name="play-services-basement-8.3.0" level="project" />
+    <orderEntry type="library" exported="" name="providers-android-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.1.1" level="project" />
     <orderEntry type="library" exported="" name="play-services-auth-8.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-base-8.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-measurement-8.3.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.1.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.1.1" level="project" />
+    <orderEntry type="library" exported="" name="providers-core-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="design-23.1.1" level="project" />
   </component>
 </module>
