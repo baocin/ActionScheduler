@@ -22,37 +22,16 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <Spinner
-        android:layout_width="201dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/calendar_spinner"
-        android:prompt="@string/settings_calendar_prompt"
-        android:layout_alignTop="@+id/textView2"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
-    <TextView
+    <fragment
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Select Calendar"
-        android:id="@+id/textView2"
-        android:autoText="false"
-        android:singleLine="false"
-        android:textAlignment="textStart"
-        android:hint="Which calendar to look for acctions in"
+        android:name="com.github.baocin.actionscheduler.ActionSettingsFragment"
+        android:id="@+id/fragment"
         android:layout_below="@+id/view"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="74dp" />
-
-    <Switch
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New Switch"
-        android:id="@+id/switch1"
-        android:layout_below="@+id/calendar_spinner"
-        android:layout_alignRight="@+id/textView2"
-        android:layout_alignEnd="@+id/textView2" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>

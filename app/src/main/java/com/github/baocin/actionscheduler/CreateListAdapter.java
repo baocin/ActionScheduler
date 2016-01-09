@@ -20,7 +20,6 @@ public class CreateListAdapter extends BaseAdapter {
         actionList.add(new BaseAction("Record Audio", "record_audio"));
         actionList.add(new BaseAction("Record Video", "record_video"));
         actionList.add(new BaseAction("Take Photo", "take_photo"));
-//        actionList.add(new BaseAction("Record Audio", "record_audio"));
     }
 
     public CreateListAdapter(List<BaseAction> actionList){
@@ -58,4 +57,6 @@ public class CreateListAdapter extends BaseAdapter {
 
         return view;
     }
+
+
 }

@@ -4,4 +4,9 @@
     <string name="two">Two</string>
     <string name="settings_menu_item">Settings</string>
     <string name="settings_calendar_prompt">Choose which calendar to monitor for actions: </string>
+    <string name="settings_page_title">Settings</string>
+    <string name="contextual_menu_delete">Delete</string>
+    <string name="contextual_menu_edit">Edit in Calendar</string>
+    <string name="contextual_menu_show">Show in Calendar</string>
+    <string name="action_settings_title">Action Settings</string>
 </resources>

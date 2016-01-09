@@ -8,18 +8,26 @@ public class BaseAction {
     private long id;
 
     public BaseAction() {
-        //simple unique id
-        id = SUID.id().get();
-    }
-
-    public long getId() {
-        return id;
+        id = 0;
+        title = "";
+        actionType = "";
     }
 
     public BaseAction(String title, String actionType) {
         this();
         this.title = title;
         this.actionType = actionType;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public BaseAction(String title, String actionType, long id) {
+        this();
+        this.title = title;
+        this.actionType = actionType;
+        this.id = id;
     }
 
     @Override

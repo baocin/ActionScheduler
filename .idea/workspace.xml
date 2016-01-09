@@ -2,199 +2,18 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <target>android-23</target>
-      </config>
+      <config />
     </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml">
-        <config>
-          <theme>@style/MyMaterialTheme</theme>
-        </config>
-      </layout>
-    </layouts>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f616abe-d739-40b9-b56f-fab3a12a70a8" name="Default" comment="Setup tabbed views for active and create on the main activity. List adapters for both tabs are made but not displaying real data yet.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/48/067b87fefd51401402cba5cdfc47ababf465f5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e5/06a044e78d9ffe4e4ad472468866076e80646f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/35/09b84116acf632edfb98c5a360ce25933cfee6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/17/09e7ba3694b3817db44c70cb35e83edfa31ba6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e4/0a0a9a7f2372cdc11b9ceecd3c96327065658f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/27/11859f0e13865fb27cd53c205197b9f07e7fad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/83/15dc2b73781900057d1a421c539c91150338d8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/fe/187c0cf4725efa30e6d8b497b724866b66c73e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/5d/19981032aa01b060f5a568641d7a8840cc90dc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/79/1bdbf4f2ac7da21fa9b20da69554be48dd25e9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/ae/1c6b4f86b837e880368668f21048913c0d2c1b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/80/1d7b92fdbe5689b157f0a236b5e14e67e53a93" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/47/1e68e7b2cac79603d98f4e5386fb615b6fad90" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/df/2031ca8c6678819f905a5542b1cb46e756c664" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/3f/20b0f7c301c7f866c771a5f73fb1f2d29147d2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/9a/264213e006e773105d52bb5b0ca4c645313334" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c5/29b3b81df2627dea31b88094f4c8f0334ab21e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/df/2d2f3dd8e26a5f98fc3b69e90e5cad8b286a68" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/8d/2df476e5f1ebbf2170b74c8edb13f53e322331" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/7c/31b381580c386d2af1dce5247da7a5260653f6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c1/33a0cbd379f5af6dbf1a899a0293ca5eccfad0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/1d/3591c8a4c9c29578c36c87f80c05a6aea3ee3f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e0/3618709c53c641d8ed804245baa126c9c5dbb8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/ec/37589ee820e9c90cb6fc275c017ea8a304ea24" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/a1/3d9fc1064a3cc832d6e8b901c3ce0521b25d27" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/43/3dde998efc2ce15392132ec1147bcc490f38b2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/f2/3df6e46308cfa2b59ee3fe36cae1459a94dc36" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/8f/4238ee5739592bca39debb023af209a7906d0e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/46/4371541fac95c5810628213838ba04f774e5d9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/28/43759369de7d6047842c5ea33a5272439c6c91" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/4e/4ba1e117f607d904cb575fe8d7121bf465eaf3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/b2/4bf64feba3376635b4561fe137da617068a057" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/75/4d9d1ae376d2dae1b2346aa085192b73e49d49" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/32/4e72cdd7480cb983fa1bcc7ce686e51ef87fe7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/13/5089d800ed612781fd277b7240b9a8221c199f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c4/52242da929a936b1b5e2e785cb626692fe6cfd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/60/5400c2940bc265b02f2bf5492532e3ec9f7b76" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/46/5731ca0f3846ee7b069a63ae0f766d217b445a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/bc/5ff5c050d45dd86a4e07d57504e5b896a1428d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/30/60ce61ea327b02ed614cf106e7e2cc5872c677" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/af/6117269e64cb1c3e470c09b7b95986825fe75a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/69/6273f69d476e6595637ff46b0007111a787ebe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/65/64d52db279c4ae8d882aacf5aa89a85e7a04de" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/bc/6736bc1f529f500d81c07793d496d0f48712ca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/06/6828788d2bbeecb24fcab367d06a71584340b9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/7f/68460d8b38ac04e3a3224d7c79ef719b1991a9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/8c/6a6c4a3b1ed81e79415aeffacc0b4be23e7307" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/a3/6abc22bbdcde47d2cb1bb598ae78f9de7cf778" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/2a/6b5195860b6ef50b2ce26760ad853779559aaf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/79/6b96d1c402326528b4ba3c12ee9d92d0e212e9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/4e/6d4c48cfe90e76ed75a780b674756f37358461" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/9f/73571caf1e626cc2a7c4b326c55141820bfd6a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c2/7548e78d1728ad3fe8a79fb27b64d2d18e64f7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/15/768cc22745208805c1d072bec7dc50f486a0ff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/3f/7b7676f13c5f79c67fd997462b523a9f9e8f30" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/bc/7f6c600ac22ab87ec4fbe9b553405ff21845c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/1e/80279c29ea8c190ef62f17e7753926a169402c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/45/8054aa9d30e2b81a3ea672e8626c65ffbe2dfe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/55/823ca845344b2171a065a2982e6bea7dc29e67" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/9d/82f78915133e1c35a6ea51252590fb38efac2f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/db/8617d5a7be698827ed58722fc6525fac7fc7ad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/40/88852826c3fa04aa3cc70eab771668dd18f31a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/fc/89129bd552f153192f3b2e14c12dcef9d227ea" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/68/8aed7b3b4f12683fd7f11751e927e61f15d942" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/80/8b865ced00dc0096ae99d49733297088fe739c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/7d/8cac8ad1a868df3868e09d6e05af14cfe8f50d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/29/8d499e07548a8680b94fd291672e8d347c3290" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/0d/9373d56fd7cf9cefde448126cd1fa3faf86269" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/29/93b1a7e8365813a497cc6c93c1fba5001025fa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/01/93c2673203020e3726e397a6870107f9e38aa9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/aa/9459848258002470ba61d1058a6aac7208186f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/43/95b5189ef118e63df7870986e054a10d6f34d2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e6/96e7d3b345d574f468bb007f674c0863528a86" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/07/98324d0880b118a9a714ccd98e31f62621d018" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/bf/a42f0e7b91d006d22352c9ff2f134e504e3c1d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/60/a7c18ed51f38bed6b44baf3c236b458c97af68" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/09/a83208d96ebc6bd3ceff45c45e759f840b352c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/89/aa0db8b4b87e7654793cf4b85cf5421d17de15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e1/aa16c02885b01a5d5114c63c41e3c7a456d809" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e9/abb1ac2502373089954c75e5c70126cab68eb7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/58/abd854d6ab67c71c841e7ed2b76cbf03107dce" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/39/ac8f4982e191078ce7becbbed8c39232e75386" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e7/b4def49cb53d9aa04228dd3edb14c9e635e003" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/4b/b76bd332417ac09131ce6fbb9166989e5b289d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/79/b96b122adbb4eb0ca60929cbe199ba0f6489ca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/af/b992f589cf31f4fe853a4985eb8c6b80c8c492" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/d0/b99c2f1005e10e34bc70bc299c0477c2e3d3c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e7/bedf3377d40335424fd605124d4761390218bb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/3e/bee3684fd0f0a6bd75f200f5828d33f6ffdb7e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/41/c164c58ddbcb55ca4f62931f18c133255bc4f0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/eb/c4d9e671efb982faf01a1da629f36876d4d9fe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/97/c6cde8bea3d403e949edc610cefdf9f8783d92" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/ae/c99730b4e8fcd90b57a0e8e01544fea7c31a89" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c6/cbe562a42726ab875d51cb513723b234787300" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/96/cc43efa6a0885098044e976cd780bb42c68a70" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/1b/cf3baf9ca76dc9b4da616779ddfa211af261f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/be/d5a4829bd033a9ba9b8c6501a5a651b7fb7d15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/45/dc58a590cb45b0e593be5df3121c9fa250adc1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/bf/dfa97b2a07172bceb0dfda32f9547450e8258f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/57/e0fd5cd36c7772ce34afde98a9913abc7d3b72" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/67/e22986278c60b047f120ecd9242353b2f22e5a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/11/e41c3a9e2ea8fd83539b69d894a6434b4d535c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/ae/e44e138434630332d88b1680f33c4b24c70ab3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/cd/e69bcccec65160d92116f20ffce4fce0b5245c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/e0/e87755092acb54a75038e17a0f516445b4b073" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/f3/e898cd5977307f7f0f43fd5d2cbba6ff4d5870" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/35/eb1ddfbbc029bcab630581847471d7f238ec53" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/d7/ebd2f3f3a390b012cb7d800893d008f0c40fb6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/90/edf4ab81f06b25e7fbb16f532d168c680f01ed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/85/eea08b0103898ffe82d81194d9c6f44ea6cd4b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/88/eef79b722046397a95ac0ff955ac17773d46c2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/05/ef575b0cd0173fc735f2857ce4bd594ce4f6bd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/7f/f2055e46038263d093e44e15394711da5c960b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/53/f377b2136b918c32718647baa92839e24c9a65" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/75/f510b0b3526d205e818090059efcc7cab3a092" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/ab/f666efa4cde296701e8865e3ee246cc8cd34ea" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/29/f7873c7082427fb1f5b8111ff15ed02c2cfb27" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/c1/f84111ec1f4f0fb41f7de67419f812e3559483" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/a0/f8ae4dac130e5e5905c01b512f86e5c9c5117c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/33/fbbc53219d7aa30e9bc1bbc6addfe1826beb60" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/63/fc816444614bd64f68a372d1f93211628ee51d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/77/fdccabc57eb8ae6b3fac1a91d3babbe10e3ad1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/objects/7a/ff457105115e1d45979619be194e7cf4538fbf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/index" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/COMMIT_EDITMSG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/HEAD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/logs/HEAD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SettingsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TriggerAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/applypatch-msg.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/commit-msg.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/description" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/info/exclude" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/logs/refs/heads/master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/refs/heads/master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/packed-refs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/post-update.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/pre-applypatch.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/pre-commit.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/pre-push.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/pre-rebase.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/prepare-commit-msg.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.git_/hooks/update.sample" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListItemFragment.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SignInActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SignInActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="449bb75e-895d-4cec-9678-e35ba5010d47" name="Default" comment="" />
     <ignored path="ActionScheduler2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,25 +26,81 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="ActionScheduler2" />
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="fragment_active_item.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveListAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ActiveFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding>
-                <marker date="1451691852852" expanded="true" signature="51:298" placeholder="..." />
+                <element signature="e#2062#2262#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionSettingsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActionSettingsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7052402">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+              <folding>
+                <element signature="e#717#735#0" expanded="true" />
+                <element signature="e#1044#1073#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitorService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MonitorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,109 +110,41 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalendarReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CalendarReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimedAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1663#1664#0" expanded="true" />
-                <element signature="e#1702#1703#0" expanded="true" />
-                <element signature="e#6466#6467#0" expanded="true" />
-                <element signature="e#6517#6518#0" expanded="true" />
-                <element signature="e#6882#6883#0" expanded="true" />
-                <element signature="e#6945#6946#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#418#436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_menu.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-              <folding>
-                <element signature="e#232#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4615386">
-              <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_settings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingsActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SettingsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1231#1245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9574468">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -347,19 +154,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="layoutResourceFile_vertical" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Michael Pedersen" />
-      </list>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2024,32 +1823,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListItemFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/TimedAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/Action.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TiggerAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TriggerAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SignInActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CalendarEventAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateListAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/main_menu.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/action_settings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/general_settings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/general_settings_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActionSettingsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/GeneralSettingsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/action_settings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/circular_progress_bar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_loading.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Prefs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_zero_active.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/general_settings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/GeneralSettingsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActionSettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/contextual_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CalendarReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MonitorService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2058,9 +1857,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1280" />
-    <option name="y" value="-1" />
+    <option name="y" value="-21" />
     <option name="width" value="1920" />
-    <option name="height" value="1059" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2069,7 +1868,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -2085,8 +1884,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
@@ -2095,9 +1894,23 @@
               <option name="myItemId" value="ActionScheduler2" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+              <option name="myItemId" value="ActionScheduler2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2256,42 +2069,27 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0123456789ABCDEF" />
-    <property name="last_opened_file_path" value="$USER_HOME$/local-code/google-services/android/signin" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="252" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/aoi/AndroidStudioProjects/ActionScheduler2/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java" />
-    <property name="android.project.structure.last.selected" value="app" />
-    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="ZX1B223CSJ" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/xml" />
       <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.github.baocin.actionscheduler" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.github.baocin.actionscheduler" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
-    <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="ActionScheduler2" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method>
-        <option name="Make" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -2346,15 +2144,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -2443,15 +2232,9 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.build" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Groovy.build" />
-      </list>
-    </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -2471,46 +2254,45 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f616abe-d739-40b9-b56f-fab3a12a70a8" name="Default" comment="" />
-      <created>1451356394214</created>
+      <changelist id="449bb75e-895d-4cec-9678-e35ba5010d47" name="Default" comment="" />
+      <created>1452137724919</created>
       <option name="number" value="Default" />
-      <updated>1451356394214</updated>
+      <updated>1452137724919</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-1" width="1920" height="1059" extended-state="0" />
+    <frame x="1280" y="-21" width="1920" height="1079" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3564464" sideWeight="0.37806177" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3564464" sideWeight="0.6219382" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.4978701" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29469123" sideWeight="0.44994676" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33694476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.49361023" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16901408" sideWeight="0.47018105" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936078" sideWeight="0.49361023" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22029988" sideWeight="0.31260097" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1687966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21208908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16932908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2526,440 +2308,125 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Setup tabbed views for active and create on the main activity. List adapters for both tabs are made but not displaying real data yet." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup tabbed views for active and create on the main activity. List adapters for both tabs are made but not displaying real data yet." />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1702#1703#0" expanded="true" />
-            <element signature="e#6466#6467#0" expanded="true" />
-            <element signature="e#6517#6518#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#6945#6946#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/action_settings.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SignInActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="217" column="24" selection-start-line="217" selection-start-column="24" selection-end-line="217" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="e#460#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create_item.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+    </entry>
+    <entry file="jar:///opt/android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/android/support/v7/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3322314">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47887325">
+          <caret line="60" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/circular_progress_bar.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/action_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_zero_active.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
-          <folding>
-            <element signature="e#460#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create_item.xml">
-      <provider editor-type-id="android-designer">
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/general_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_loading.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/GeneralSettingsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1702#1703#0" expanded="true" />
-            <element signature="e#6466#6467#0" expanded="true" />
-            <element signature="e#6517#6518#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#6945#6946#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/GeneralSettingsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActionScheduler2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/android-sdk/sources/android-23/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="1182" column="0" selection-start-line="1182" selection-start-column="0" selection-end-line="1182" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create_item.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SignInActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TriggerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#2275#2276#0" expanded="true" />
-            <element signature="e#2338#2339#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#460#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#418#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4615386">
-          <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+        <state vertical-scroll-proportion="-6.230769">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -2967,19 +2434,149 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/contextual_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
-            <element signature="e#232#260#0" expanded="true" />
+            <element signature="e#228#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/general_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.535714">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/action_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.607143">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/camera.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/audio.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create_item.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActionSettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25862068">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CreateFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
           <folding>
-            <marker date="1451691852852" expanded="true" signature="51:298" placeholder="..." />
+            <element signature="e#1765#1766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_active_item.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/BaseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MonitorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2987,49 +2584,62 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1702#1703#0" expanded="true" />
-            <element signature="e#6466#6467#0" expanded="true" />
-            <element signature="e#6517#6518#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#6945#6946#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1231#1245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9574468">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/CalendarReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/Action/TimedAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActiveFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="e#2062#2262#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/baocin/actionscheduler/ActionSettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7052402">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <element signature="e#717#735#0" expanded="true" />
+            <element signature="e#1044#1073#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

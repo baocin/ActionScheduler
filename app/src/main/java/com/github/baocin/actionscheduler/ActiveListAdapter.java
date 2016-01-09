@@ -18,11 +18,10 @@ public class ActiveListAdapter extends BaseAdapter {
     private List<TimedAction> actionList = new ArrayList<>();
 
     public ActiveListAdapter(){
-        actionList = MainActivity.getActiveActionList();
 //        TimedAction a = new TimedAction();
 //        a.title = "Record Audio";
 //        a.actionType = "A Name";
-////      a.startDate = 389457984;
+////      a.startTime = 389457984;
 //        actionList.add(a);
     }
     public ActiveListAdapter(List<TimedAction> actionList){
@@ -50,26 +49,30 @@ public class ActiveListAdapter extends BaseAdapter {
             LayoutInflater inflater = LayoutInflater.from(parent.getContext());
             view = inflater.inflate(R.layout.fragment_active_item, parent, false);
         }
-//        LayoutInflater inflater = (LayoutInflater) .this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-//        View rowView = inflater.inflate(R.layout.fragment_active_item, parent, false);
 
         TextView firstLine = (TextView) view.findViewById(R.id.firstLine);
         TextView secondLine = (TextView) view.findViewById(R.id.secondLine);
         ImageView icon = (ImageView) view.findViewById(R.id.icon);
         firstLine.setText(getItem(position).title);
 
-//        Log.d("getView", getItem(position).toString());
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/M/yyyy");
-        String startDate = sdf.format(getItem(position).startDate);
-        secondLine.setText(startDate);
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/M/yyyy  hh:mm:ss");
+        String startDate = sdf.format(getItem(position).startTime);
+        String endDate = sdf.format(getItem(position).endTime);
+        secondLine.setText(startDate + "  to  " + endDate);
 
-
-        icon.setImageResource(R.drawable.tmp);
+        TimedAction current = actionList.get(position);
+        if (current.actionType.equals("audio")) {
+            icon.setImageResource(R.drawable.audio);
+        }else if (current.actionType.equals("photo")){
+            icon.setImageResource(R.drawable.camera);
+        }else if (current.actionType.equals("video")){
+            icon.setImageResource(R.drawable.video);
+        }else {
+            icon.setImageResource(R.drawable.tmp);
+        }
 
         return view;
     }
 
-    public void refreshList(){
-        actionList = MainActivity.getActiveActionList();
-    }
+
 }
